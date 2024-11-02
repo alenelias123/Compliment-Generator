@@ -61,9 +61,9 @@ Integration testing: Google Colab accommodates step-by-step test and debug the f
 !pip install gradio transformers torch opencv-python scikit-learn
 
 ### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
+
+# Screenshots 
 
 ![out 1](https://github.com/user-attachments/assets/d57e47d7-ac08-45d3-9550-64808b078265)
 
@@ -140,7 +140,7 @@ For Software:
 
 # Build Photos
 
-![image](https://github.com/user-attachments/assets/6295ff31-f21e-483f-b056-4ad5ee784641)
+![image](https://github.com/user-attachments/assets/305ce464-47c1-4e06-8783-c0610adc5e87)
 
 this is the complete picture of coding session inside Google Collab
 
