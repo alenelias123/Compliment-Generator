@@ -142,24 +142,31 @@ For Software:
 
 ![image](https://github.com/user-attachments/assets/6295ff31-f21e-483f-b056-4ad5ee784641)
 
-Explain the build steps
+this is the complete picture of coding session inside Google Collab
 
 
 #Final Product
 ![image](https://github.com/user-attachments/assets/fda61790-9c58-4625-ae8c-81004488eea4)
 
-Explain the final build
+This is the final build. the build was made under Gradio and hosted under the hugging faces space using Gradio.
 
 ### Project Demo
 # Video
 
 
+https://github.com/user-attachments/assets/d81e2986-ed80-4985-880a-fac506c44421
+
+
+this video demonstrates how the product works.
+#1-add picture to the drag n drop box
+#2-click on submit button
+#3-enjoy the personalized comments
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+- Alen Elias Cherian : Made codes on smile detection. researched on the same and found out the necessary packages and things.
+- Kashinath R : Coded for Colour detection. Researched tooooo much on the subject and found out the neccessities
+- Job Joseph: Coded for compliment giving part. was successful in including GPT2 integration in the program
 ---
 Made with ❤ at TinkerHub Useless Projects 
 
